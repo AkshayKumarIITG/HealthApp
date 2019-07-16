@@ -1,3 +1,9 @@
+### Credit
+
+https://github.com/food-nutrients/food-nutrients
+
+
+
 <p align="center">
   <img width="706" height="288" src="https://raw.githubusercontent.com/food-nutrients/food-nutrients/master/src/imgs/logo.png?raw=true" alt="Food Nutrients logo">
 </p>
